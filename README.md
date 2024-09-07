@@ -18,7 +18,7 @@ In this project, I tried to replicate popular Optical Character Recognition (OCR
 </p>
 
 ## Requirements
-This project was created in `Python=3.10`. The additional requirements needed to compile this code correctly are listed in the `requirements.text` file located in the root folder.
+This project was created in `Python=3.10`. The additional requirements needed to compile this code correctly are listed in the `requirements.txt` file located in the root folder.
 
 ## USEME Location
 The `USEME.md` provides instructions on how to set up the Python environment, run the scripts provided in this project, and use the custom made OCR model. The `USEME.md` file is located in the root folder.
