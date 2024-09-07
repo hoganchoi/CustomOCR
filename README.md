@@ -74,3 +74,6 @@ The `demos` folder stores all the notebooks documenting each step of the project
  - `preprocess_demo`: The notebook documenting the process of identifying words in images and extracting their individual characters for model training.
  - `augmentations_demo`: The notebook documenting the augmentation process for trianing images.
  - `model_training_demo`: The notebook documenting the process of loading training datasets, training the custom OCR model, and evaluating the model's performance on the testing dataset.
+
+## References
+TBA
