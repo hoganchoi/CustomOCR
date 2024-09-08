@@ -8,7 +8,7 @@ In this project, I tried to replicate popular Optical Character Recognition (OCR
  - Reconstructing words from model outputs
 
 <p align="center">
-  <img src="example_images/CustomOCR_Example_Images.jpg" width = "600" height = "300"/>
+  <img src="example_images/CustomOCR_Example_Images.jpg" width = "650" height = "300"/>
 </p>
 
 <p align="center">
