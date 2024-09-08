@@ -107,7 +107,7 @@ I then applied augmentations to the training images. This allowed me to work wit
 For the model parameters, I used the categorical cross entropy loss function and the Adam optimizer with an initial learning rate of $1e-4$. The validation loss and accuracy were tracked for 15 epochs on all three training datasets to see if there were any improvements in performance using an augmented dataset. The model weights with the loweset validation loss were saved. Below shows the metrics for the training process of the case-sensitive and case-insensitive characters.
 
 <p align="center">
-  <img src="example_images/Training_Metrics.jpg" width = "500" height = "300"/>
+  <img src="example_images/Training_Metrics.jpg" width = "600" height = "360"/>
 </p>
 
 <p align="center">
