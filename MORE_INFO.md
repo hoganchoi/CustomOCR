@@ -84,7 +84,7 @@ For this project, I used a training dataset with no augmentations, with augmenta
 The CNN model that I used for character recognition was heavily influenced by the LeNet5 model by LeCun's "Gradient-Based Learning Applied to Document Recognition". While the LeNet5 model is very accurate when predicting the MNIST's hand-written dights, it's design was too simple and couldn't directly be transferred to this project. Hence, I made some modifications to the layers to learn more diverse features in the character datasets. The architecture for my custom CNN model is shown below.
 
 <p align="center">
-  <img src="example_images/CNN_Model_Architecture.jpg" width = "550" height = "250" />
+  <img src="example_images/CNN_Model_Architecture.jpg" width = "550" height = "260" />
 </p>
 
 <p align="center">
