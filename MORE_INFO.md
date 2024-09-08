@@ -28,7 +28,7 @@ The OCR system created in this project has three stages: the preprocessing stage
 Below shows a general outline of the CustomOCR system.
 
 <p align="center">
-  <img src="example_images/Custom_OCR_Outline.jpg" width = "600" height = "300" />
+  <img src="example_images/Custom_OCR_Outline.jpg" width = "650" height = "300" />
 </p>
 
 <p align="center">
