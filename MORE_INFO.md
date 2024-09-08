@@ -6,7 +6,7 @@ This file goes over the data format and preprocessing, model's architecture, and
 For this project, I used the images (both case-sensitive and case-insensitive) in Jaderberg, Vedaldi, and Zisserman's "Deep Features for Text Spotting" paper published in the European Conference on Computer Vision (ECCV) 2014. These images were stored as `.mat` files and had a similar structure to the diagram shown below. 
 
 <p align="center">
-  <img src="example_images/Data_Format.jpg" width="700" height="200" />
+  <img src="example_images/Data_Format.jpg" width="700" height="400" />
 </p>
 
 <p align="center">
