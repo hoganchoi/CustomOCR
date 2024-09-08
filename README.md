@@ -76,4 +76,11 @@ The `demos` folder stores all the notebooks documenting each step of the project
  - `model_training_demo`: The notebook documenting the process of loading training datasets, training the custom OCR model, and evaluating the model's performance on the testing dataset.
 
 ## References
-TBA
+1. F. Akyon, "CRAFT: Character-Region Awareness For Text detection", 2020, https://github.com/fcakyon/craft-text-detector.git.
+2. Y. Baek, B. Lee, D. Han, S. Yun, and H. Lee, "Character Region Awareness for Text Detection," 2019, https://arxiv.org/abs/1904.01941.
+3. T. Beerten, "Effective Data Augmentation for OCR," Medium, Towards Data Science, Apr. 6, 2023. [Online]. Available: https://towardsdatascience.com/effective-data-augmentation-for-ocr-8013080aa9fa.
+4. M. Jaderberg, A. Vedaldi, and A. Zisserman, "Deep Features for Text Spotting," 2014.
+5. Jaided AI, "Easy OCR," 2020, https://github.com/JaidedAI/EasyOCR.git.
+6. Y. Lecun, L. Bottou, Y. Bengio, and P. Haffner, "Gradient-based learning applied to document recognition," Proceedings of the IEEE, vol. 86, no. 11, pp. 2278-2324, Nov. 1998, doi: 10.1109/5.726791.
+7. J. Zdenek and D. Caicedo, "Keras implementation of Convolutional Recurrent Neural Network for text recognition," 2021, https://github.com/janzd/CRNN.git.
+8. S. Zahra, "OCR Segmentation with Python Code," Medium, Apr. 29, 2023. [Online]. Available: https://sanaazahra.medium.com/ocr-segmentation-with-python-code-f3251114ee48.
