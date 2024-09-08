@@ -75,6 +75,11 @@ The `demos` folder stores all the notebooks documenting each step of the project
  - `augmentations_demo`: The notebook documenting the augmentation process for trianing images.
  - `model_training_demo`: The notebook documenting the process of loading training datasets, training the custom OCR model, and evaluating the model's performance on the testing dataset.
 
+## Computer Specs
+ - **CPU:** 13th Gen Intel(R) Core(TM) i7-13700K 
+ - **GPU:** Nvidia GeForce RTX 4080 16GB
+ - **Memory:** 32.0 GB
+
 ## References
 1. F. Akyon, "CRAFT: Character-Region Awareness For Text detection", 2020, https://github.com/fcakyon/craft-text-detector.git.
 2. Y. Baek, B. Lee, D. Han, S. Yun, and H. Lee, "Character Region Awareness for Text Detection," 2019, https://arxiv.org/abs/1904.01941.
