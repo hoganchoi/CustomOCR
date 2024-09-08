@@ -120,8 +120,8 @@ We can see that the validation loss values for the augmented datasets start lowe
 
 The saved model's training time as well as its loss and accuracy on the testing images are shown below. 
 
-<div align: "center">
-  <table style="margin: 0 auto; border-collapse: collapse;">
+<center>
+  <table>
     <thead>
       <tr>
         <th></th>
@@ -174,13 +174,14 @@ The saved model's training time as well as its loss and accuracy on the testing 
       </tr>
       <tr>
         <td>Augmentations over 10 Iterations</td>
-        <td text-align: "center">0.4062</td>
+        <td style="text-align: center;">0.4062</td>
         <td style="text-align: center;">93.48%</td>
         <td style="text-align: center;">9:06</td>
       </tr>
     </tbody>
   </table>
-</div>
+</center>
+
 
 <p align="center">
   <em>
