@@ -67,7 +67,7 @@ In order to create a more diverse dataset and to artificially enlarge the traini
 By applying these operations, the model will be able to learn image features in various scenarios, ignore background noise, and focus on fundamental properties of each letters.
 
 <p align="center">
-  <img src="example_images/Image_Augmentations.jpg" width = "700" height = "300" />
+  <img src="example_images/Image_Augmentations.jpg" width = "560" height = "240" />
 </p>
 
 <p align="center">
